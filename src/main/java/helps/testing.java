@@ -12,6 +12,8 @@ public class testing
 		
 		System.setProperty("webdriver.firefox.driver", "./drivers/geckodriver.exe");
 		
+		System.setProperty("webdriver.safari.driver", "./drivers/geckodriver.exe");
+		
 		
 	}
 }
