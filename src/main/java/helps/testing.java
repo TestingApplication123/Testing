@@ -9,5 +9,9 @@ public class testing
 		RemoteWebDriver driver;
 		
 		System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
+		
+		System.setProperty("webdriver.firefox.driver", "./drivers/geckodriver.exe");
+		
+		
 	}
 }
