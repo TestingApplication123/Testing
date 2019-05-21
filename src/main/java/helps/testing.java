@@ -9,5 +9,7 @@ public class testing
 		RemoteWebDriver driver;
 		
 		System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
+		
+		System.setProperty("webdriver.ie.driver", "./drivers/InternetExplorerdriver.exe");
 	}
 }
