@@ -10,6 +10,12 @@ public class testing
 		
 		System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
 		
+
 		System.setProperty("webdriver.ie.driver", "./drivers/InternetExplorerdriver.exe");
+
+		System.setProperty("webdriver.firefox.driver", "./drivers/geckodriver.exe");
+		
+		
+
 	}
 }
