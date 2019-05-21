@@ -18,7 +18,11 @@ public class testing
 
 		System.setProperty("webdriver.edge.driver", "./drivers/geckodriver.exe");
 
+
 		System.setProperty("webdriver.safari2.driver", "./drivers/geckodriver.exe");
+
+	
+
 
 		
 
